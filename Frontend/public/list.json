@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name":"Story book",
+        "title":"Lorem,ipsum dolor sit consectetue",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724949330~exp=1724952930~hmac=9d70653eb5664e9767b882682d9a7616daa6955d6bcbbf140fcb5c80127d57e3&w=740"
+    },
+    {
+        "id":2,
+        "name":"Sports book",
+        "title":"Lorem,ipsum dolor sit consectetue",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724949330~exp=1724952930~hmac=9d70653eb5664e9767b882682d9a7616daa6955d6bcbbf140fcb5c80127d57e3&w=740"
+    },
+    {
+        "id":3,
+        "name":"Comics",
+        "title":"Lorem,ipsum dolor sit consectetue",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724949330~exp=1724952930~hmac=9d70653eb5664e9767b882682d9a7616daa6955d6bcbbf140fcb5c80127d57e3&w=740"
+    },
+    {
+        "id":4,
+        "name":"Horror book",
+        "title":"Lorem,ipsum dolor sit consectetue",
+        "price":150,
+        "category":"Horror",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724949330~exp=1724952930~hmac=9d70653eb5664e9767b882682d9a7616daa6955d6bcbbf140fcb5c80127d57e3&w=740"
+    },
+    {
+        "id":5,
+        "name":"Comdey Book",
+        "title":"Lorem,ipsum dolor sit consectetue",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724949330~exp=1724952930~hmac=9d70653eb5664e9767b882682d9a7616daa6955d6bcbbf140fcb5c80127d57e3&w=740"
+    },
+    {
+        "id":6,
+        "name":"History book",
+        "title":"Lorem,ipsum dolor sit consectetue",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724949330~exp=1724952930~hmac=9d70653eb5664e9767b882682d9a7616daa6955d6bcbbf140fcb5c80127d57e3&w=740"
+    },
+    {
+        "id":7,
+        "name":"Drama book",
+        "title":"Lorem,ipsum dolor sit consectetue",
+        "price":200,
+        "category":"Drama",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724949330~exp=1724952930~hmac=9d70653eb5664e9767b882682d9a7616daa6955d6bcbbf140fcb5c80127d57e3&w=740"
+    },
+    {
+        "id":8,
+        "name":"Poem book",
+        "title":"Lorem,ipsum dolor sit consectetue",
+        "price":0,
+        "category":"Poem",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1724949330~exp=1724952930~hmac=9d70653eb5664e9767b882682d9a7616daa6955d6bcbbf140fcb5c80127d57e3&w=740"
+    }
+]
